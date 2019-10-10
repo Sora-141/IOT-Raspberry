@@ -12,3 +12,6 @@ if you whant to replicate my setup here is the list and shematics of the electro
 
 ![](https://raw.githubusercontent.com/Sora-141/IOT-Raspberry/master/RGB_Controller/shematic/electronic_shematic.PNG)
 > electronic shematic
+
+### electronic math rule
+if you have the same componnents used here please use 100Ω resitors. if not please respect **[Ohm's law](https://www.rapidtables.com/electric/ohms-law.html) V = I x R** so **R = V/I**
